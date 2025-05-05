@@ -1,4 +1,4 @@
-import ImageGalleryCard from "./ImageGalleryCard";
+import ImageGalleryCard from "../ImageGalleryCard/ImageGalleryCard";
 import { StyledUl, StyledLi } from "../../styles/styled";
 
 export default function ImageGallery({ images, onImageClick }) {
